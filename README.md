@@ -1,5 +1,3 @@
-
-
 # Dog Class in Python
 
 This repository provides a simple example demonstrating the concept of classes in Python, focusing on a `Dog` class.
@@ -56,5 +54,3 @@ print(rover.speak("Bark Bark"))  # Output: Rover says Bark Bark
 ```
 
 ---
-
-You can save the above content to a file named `README.md` and place it in the root directory of your project/repository. If you're using a platform like GitHub, the markdown formatting will render it in a readable and structured format.
